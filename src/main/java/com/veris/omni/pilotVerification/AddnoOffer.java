@@ -4,6 +4,7 @@ public class AddnoOffer  extends OfferBase {
 	
 	private String addnoOfferId;
 	private String addnoName;
+	private String text;
 	
 	public String getAddnoOfferId() {
 		return addnoOfferId;
